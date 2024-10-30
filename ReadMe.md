@@ -10,7 +10,7 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 - text in red
 + text in green
 ! text in orange
-# text in gray
+text in gray
 @@ text in purple (and bold)@@
 ```
 
