@@ -16,3 +16,6 @@ $${\color{red}[abc\]\(https://google.fr)}$$
 #0f0[This is green text]
 
 #7fffff00[This is yellow text at 50% opacity]
+
+
+${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
