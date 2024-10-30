@@ -9,3 +9,8 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 
 $${\color{red}[abc\]\(https://google.fr)}$$
 <h1 style="color: red">text</h1>
+
+
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
