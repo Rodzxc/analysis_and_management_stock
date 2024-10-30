@@ -3,6 +3,7 @@
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 $\textsf{\color{#f48522}{Titulo con color}}$
+$\text{\color{#f48522}{Titulo con color}}$
 
 <code style="color : red">text</code>
 $${\color{red}Red}$$
