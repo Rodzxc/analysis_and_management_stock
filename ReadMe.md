@@ -11,6 +11,6 @@ $${\color{red}[abc\]\(https://google.fr)}$$
 <h1 style="color: red">text</h1>
 
 
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
+#0f0[This is green text]
+
+#7fffff00[This is yellow text at 50% opacity]
