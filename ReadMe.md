@@ -2,8 +2,9 @@
 <span style="color:red">Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.</span>
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
-$\textsf{\color{#f48522}{Titulo con color}}$
-$\text{\color{#f48522}{Titulo con color}}$
+$\textsf{\color{#f48522}{Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.}}$
+
+$\text{\color{#f48522}{Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.}}$
 
 <code style="color : red">text</code>
 $${\color{red}Red}$$
