@@ -3,3 +3,4 @@
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 <code style="color : red">text</code>
+$${\color{red}Red}$$
