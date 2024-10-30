@@ -19,6 +19,6 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 ```
 
 
-$\textcolor{yellow}{This\ is\ a\ Big\ Title}$
+$\textcolor{red}{Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.}$
 
 ${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
