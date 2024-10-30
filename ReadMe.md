@@ -6,9 +6,13 @@
 $${\color{red}Red}$$
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
 
-
-$${\color{red}[abc\]\(https://google.fr)}$$
-<h1 style="color: red">text</h1>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 
