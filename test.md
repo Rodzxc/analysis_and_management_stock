@@ -40,3 +40,39 @@ $\textsf{\color{grey}{Estimación de la demanda de cada producto en los próximo
 ## ${\color{orange}Conclusión}$
 
 Este proyecto proporciona un enfoque basado en datos para la toma de decisiones y puede continuar desarrollandose calculando el lote óptimo de compra, nivel de servicio, política de inventarios, la implementación de un sistema ERP, etc.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+# Gestión de Stock
+
+## Descripción
+La gestión de stock es una disciplina clave que se encarga de planificar, controlar y supervisar los productos y mercancías dentro de una empresa. Su principal objetivo es asegurar que el nivel de stock sea el adecuado para satisfacer la demanda de los clientes, minimizando al mismo tiempo los costos operativos.
+
+Este proyecto se centra en la implementación de la gestión de stock utilizando la base de datos AdventureWorks de Microsoft.
+
+Esta base de datos simula diversos escenarios empresariales, registrando compras, ventas, productos, clientes, empleados, proveedores y otros elementos relacionados a la actividad comercial de una empresa multinacional "ficticia" que fabrica y distribuye bicicletas, piezas y accesorios en mercados de Norteamérica, Europa y Asia.
+
+##Objetivo
+Obtener insight que ayuden a tomar acciones sobre los proveedores y las mercancías de una manera inteligente y estratégica.
+
+##Resultados
+- Clasificación de las mercancías y proveedores según su importancia en el negocio.
+- Dashboard de ventas.
+- Confección de tablas, dashboard y documentos para el control del stock.
+- Predicción de la demanda.
+
+##Estructura
+
+##Repositorio
+
+
+##Conclusión
+Este trabajo puede adaptarse a otras empresas que necesiten gestionar un inventario para impulsar su negocio.
+Es un punto de partida desde el cual se puede seguir ampliando, integrando inteligencia artificial, realizando un sistema de recomendación de productos ó segmentado clientes, entre otras opciones, con el fin de seguir nutriendo la Gestión del Stock.
