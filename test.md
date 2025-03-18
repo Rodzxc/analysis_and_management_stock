@@ -31,7 +31,7 @@ La combinación de GCP, SQL, Power BI y Python permite una solución escalable y
 - Confección de un calendario para el control del stock: 
 $\textsf{\color{grey}{Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.}}$
 - Análisis de la demanda y los ingresos generados: 
-$\textsf{\color{grey}{Expresado en valores y porcentajes; y Segmentados por producto, Región y País. }}$
+$\textsf{\color{grey}{Expresado en valores y porcentajes; y segmentados por producto, región y país. }}$
 - Impacto de los productos en el negocio:
 $\textsf{\color{grey}{Calculado a traves de la demanda y los ingresos que genera cada producto.}}$
 - Impacto de los proveedores en el negocio:
