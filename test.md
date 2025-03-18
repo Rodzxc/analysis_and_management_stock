@@ -1,10 +1,12 @@
 # ${\color{orange}Análisis\ y\ Gestión\ de\ Stock}$
 
->  *"La gestión  del stock y de los productos tiene como objetivo principal asegurar la **disponibilidad de los productos adecuados en el momento adecuado** para satisfacer la demanda, minimizando costos y optimizando los recursos."*
+>  *"La gestión  del stock tiene como objetivo principal **asegurar la disponibilidad de los productos adecuados en el momento adecuado** para satisfacer la demanda, minimizando costos y optimizando los recursos."*
 
-En este proyecto *end-to-end* se implementa una solución integral para la gestión y análisis de productos utilizando la base de datos de AdventureWorks. Combina herramientas de Google Cloud Platform (GCP), SQL, Power BI y Python para desarrollar un flujo de trabajo robusto de ETL, análisis y pronóstico de demanda.
+En este proyecto *end-to-end* se implementa una solución integral para la gestión y análisis de productos utilizando la base de datos de AdventureWorks. Combina herramientas de Google Cloud Platform (GCP), SQL, Power BI y Python para desarrollar un flujo de trabajo robusto de ELT, análisis y pronóstico de demanda.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+AdventureWorks es una base de datos que simula diversos escenarios empresariales, registrando compras, ventas, productos, clientes, empleados, proveedores y otros elementos relacionados a la actividad comercial de una empresa multinacional "ficticia" que fabrica y distribuye bicicletas, piezas y accesorios en mercados de Norteamérica, Europa y Asia.
 
 ## ${\color{orange}Objetivo}$
 
@@ -15,7 +17,7 @@ La combinación de GCP, SQL, Power BI y Python permite una solución escalable y
 
 | ROL                |Herramienta                          |Tarea |
 |----------------|-------------------------------|-----------------------------|
-|Data Engineer|GCP (CloudSQL, Data Stream, BigQuery y Python en BigQuery)           |ETL(*)          |
+|Data Engineer|GCP (CloudSQL, Data Stream, BigQuery y Python en BigQuery)           |ELT(*)          |
 |Data Analyst|Power BI (y Python embebido en Power BI)           |Análisis y Dashboard(*)            |
 |Data Scientist|Python (Pandas, Numpy, Prophet, ...)|Predicción de la demanda(**)|
 
@@ -37,42 +39,11 @@ $\textsf{\color{grey}{Calculado a traves de la demanda y los ingresos que genera
 - Predicción de la demanda:
 $\textsf{\color{grey}{Estimación de la demanda de cada producto en los próximos 3 meses.}}$
 
+## ${\color{orange}Estructura}$
+
+## ${\color{orange}Repositorio}$
+
 ## ${\color{orange}Conclusión}$
 
-Este proyecto proporciona un enfoque basado en datos para la toma de decisiones y puede continuar desarrollandose calculando el lote óptimo de compra, nivel de servicio, política de inventarios, la implementación de un sistema ERP, etc.
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-# Gestión de Stock
-
-## Descripción
-La gestión de stock es una disciplina clave que se encarga de planificar, controlar y supervisar los productos y mercancías dentro de una empresa. Su principal objetivo es asegurar que el nivel de stock sea el adecuado para satisfacer la demanda de los clientes, minimizando al mismo tiempo los costos operativos.
-
-Este proyecto se centra en la implementación de la gestión de stock utilizando la base de datos AdventureWorks de Microsoft.
-
-Esta base de datos simula diversos escenarios empresariales, registrando compras, ventas, productos, clientes, empleados, proveedores y otros elementos relacionados a la actividad comercial de una empresa multinacional "ficticia" que fabrica y distribuye bicicletas, piezas y accesorios en mercados de Norteamérica, Europa y Asia.
-
-##Objetivo
-Obtener insight que ayuden a tomar acciones sobre los proveedores y las mercancías de una manera inteligente y estratégica.
-
-##Resultados
-- Clasificación de las mercancías y proveedores según su importancia en el negocio.
-- Dashboard de ventas.
-- Confección de tablas, dashboard y documentos para el control del stock.
-- Predicción de la demanda.
-
-##Estructura
-
-##Repositorio
-
-
-##Conclusión
-Este trabajo puede adaptarse a otras empresas que necesiten gestionar un inventario para impulsar su negocio.
+Este proyecto puede adaptarse a otras empresas que necesiten gestionar un inventario para impulsar su negocio.
 Es un punto de partida desde el cual se puede seguir ampliando, integrando inteligencia artificial, realizando un sistema de recomendación de productos ó segmentado clientes, entre otras opciones, con el fin de seguir nutriendo la Gestión del Stock.
