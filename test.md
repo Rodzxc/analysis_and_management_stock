@@ -40,6 +40,8 @@ $\textsf{\color{grey}{Calculado a traves de la demanda y los ingresos que genera
 $\textsf{\color{grey}{Estimación de la demanda de cada producto en los próximos 3 meses.}}$
 
 ## ${\color{orange}Estructura}$
+![Estructura](https://github.com/user-attachments/assets/fc318e48-41ef-4431-948a-f4e9e82ab80d)
+
 
 ## ${\color{orange}Repositorio}$
 
