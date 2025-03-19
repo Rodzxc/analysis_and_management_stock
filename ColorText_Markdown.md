@@ -1,4 +1,3 @@
-# Editor.md
 <span style="color:red">Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.</span>
 
 $\textsf{\color{#f48522}{Los productos más importantes se controlan 2 veces al mes y el resto 1 vez al mes.}}$
