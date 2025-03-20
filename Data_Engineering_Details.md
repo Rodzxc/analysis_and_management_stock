@@ -11,7 +11,7 @@ Cloud SQL<br />
 $\textsf{\color{grey}{Aloja la base de datos AdventureWorks.}}$
 
 BigQuery<br />
-$\textsf{\color{grey}{Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se
+$\textsf{\color{grey}{Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se<br />
 confecciona la base de datos final.}}$
 
 DataStream<br />
