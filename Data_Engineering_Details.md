@@ -27,8 +27,7 @@ $\text{\color{grey}{El resultado final es el archivo}}$ <code style="color : red
 
 ## Diagrama
 
-![image](https://github.com/user-attachments/assets/a383dbef-1474-481c-a2fc-5fcf50ea43bc)
-
+<img src="https://github.com/user-attachments/assets/a383dbef-1474-481c-a2fc-5fcf50ea43bc" alt="Diagrama" width="700"/>
 
 ## Conexiones
 Para que se generen todas estas interacciones, es necesario crear conexiones, en este caso, Cloud SQL tiene varias conexiones para transformar AdventureWorks hasta llegar a la base de datos final:
