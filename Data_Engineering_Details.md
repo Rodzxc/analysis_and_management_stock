@@ -14,14 +14,14 @@ BigQuery<br />
 $\textsf{\color{grey}{Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se confecciona la base de datos final.}}$
 
 DataStream<br />
-$\textsf{\color{grey}{Conecta Cloud SQL con BigQuery. Cualquier tranformación que se realice a AdventureWorks se refleja en BigQuery.}}$
+$\text{\color{grey}{Conecta Cloud SQL con BigQuery. Cualquier tranformación que se realice a AdventureWorks se refleja en BigQuery.}}$
 
 MySQL Workbench<br />
-$\textsf{\color{grey}{Crea tablas en AdventureWorks, estas tablas son necesarias para el control de stock y son enviadas a BigQuery para formar parte de la base de datos final.}}$
+$\text{\color{grey}{Crea tablas en AdventureWorks, estas tablas son necesarias para el control de stock y son enviadas a BigQuery para formar parte de la base de datos final.}}$
 
 Notebook Python<br />
-$\textsf{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el control del stock.}}$<br />
-$\textsf{\color{grey}{El resultado final es el archivo}}$ <code style="color : red">Control_de_Stock.ipynb</code>.
+$\text{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el control del stock.}}$<br />
+$\text{\color{grey}{El resultado final es el archivo}}$ <code style="color : red">Control_de_Stock.ipynb</code>.
 
 
 ## Diagrama
