@@ -14,6 +14,9 @@ BigQuery<br />
 $\textsf{\color{grey}{Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se<br />
 confecciona la base de datos final.}}$
 
+<span style="color:grey;">Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se confecciona la base de datos final.</span>
+
+
 DataStream<br />
 $\text{\color{grey}{Conecta Cloud SQL con BigQuery. Cualquier tranformación que se realice a AdventureWorks se refleja en BigQuery.}}$
 
