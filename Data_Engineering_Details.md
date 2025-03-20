@@ -17,6 +17,9 @@ El resultado final es el archivo Control_de_Stock.ipynb.
 
 ## Diagrama
 
+![image](https://github.com/user-attachments/assets/88b97d10-c8ec-4295-ae6e-d921f8fa1022)
+
+
 ## Conexiones
 Para que se generen todas estas interacciones, es necesario crear conexiones, en este caso, Cloud SQL tiene varias conexiones para transformar AdventureWorks hasta llegar a la base de datos final:
 
