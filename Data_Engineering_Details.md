@@ -21,7 +21,7 @@ $\textsf{\color{grey}{Crea tablas en AdventureWorks, estas tablas son necesarias
 
 Notebook Python<br />
 $\textsf{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el control del stock.<br />
-El resultado final es el archivo}}$ <code style="color : red">Control_de_Stock.ipynb</code>.
+El resultado final es el archivo <code style="color : red">Control_de_Stock.ipynb</code>.}}$
 
 
 ## Diagrama
