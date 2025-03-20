@@ -27,8 +27,7 @@ $\text{\color{grey}{El resultado final es el archivo}}$ <code style="color : red
 
 ## Diagrama
 
-![image](https://github.com/user-attachments/assets/8dc2bf68-fd04-4c97-abb2-7cc2d66949a2)
-
+![image](https://github.com/user-attachments/assets/cb08a7e0-2ad0-4034-a2be-9d7e615928b5)
 
 
 ## Conexiones
