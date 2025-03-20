@@ -17,7 +17,8 @@ El resultado final es el archivo Control_de_Stock.ipynb.
 
 ## Diagrama
 
-![image](https://github.com/user-attachments/assets/88b97d10-c8ec-4295-ae6e-d921f8fa1022)
+![image](https://github.com/user-attachments/assets/8dc2bf68-fd04-4c97-abb2-7cc2d66949a2)
+
 
 
 ## Conexiones
