@@ -1,11 +1,14 @@
 # Detalles del proceso de Data Engineering
 
+![proceso](https://github.com/user-attachments/assets/01bbfc81-3b50-4ae2-b10e-2da6e8369a59)
+
 En este apartado se explica las diferentes alternativas utilizadas para realizar el proceso de transformación de la base de datos AdventureWorks. 
 
-Si bien todo este proceso se puede realizar siguiendo una sola alternativa, el propósito de tomar varias es para desarrollar más el conocimiento en la materia.
+Si bien todo este proceso se puede realizar siguiendo una sola alternativa, el propósito de tomar varias es para desarrollar el conocimiento en la materia.
 
 ## Stack Tecnológico
-Cloud SQL: Aloja la base de datos AdventureWorks.
+Cloud SQL: 
+$\textsf{\color{grey}{Aloja la base de datos AdventureWorks.}}$
 BigQuery: Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se confecciona la base de datos final.
 DataStream: Conecta Cloud SQL con BigQuery. Cualquier tranformación que se realice a AdventureWorks se refleja en BigQuery.
 MySQL Workbench: crea tablas en AdventureWorks, estas tablas son necesarias para el control de stock y son enviadas a BigQuery para formar parte de la base de datos final.
