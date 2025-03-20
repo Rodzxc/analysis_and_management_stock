@@ -11,17 +11,14 @@ Cloud SQL<br />
 $\textsf{\color{grey}{Aloja la base de datos AdventureWorks.}}$
 
 BigQuery<br />
-$\textsf{\color{grey}{Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se<br />
-confecciona la base de datos final.}}$
-
-<span style="color:grey;">Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se confecciona la base de datos final.</span>
-
+$\textsf{\color{grey}{Selecciona las tablas necesarias para realizar este proyecto, tambien se desarrolla el proceso de transformación para el control de stock y se}}$<br />
+$\textsf{\color{grey}{confecciona la base de datos final.}}$
 
 DataStream<br />
 $\text{\color{grey}{Conecta Cloud SQL con BigQuery. Cualquier tranformación que se realice a AdventureWorks se refleja en BigQuery.}}$
 
 MySQL Workbench<br />
-$\text{\color{grey}{Crea tablas en AdventureWorks, estas tablas son necesarias para el control de stock y son enviadas a BigQuery para formar parte de la base de datos final.}}$
+$\text{\color{grey}{Crea tablas en AdventureWorks necesarias para el control de stock y son enviadas a BigQuery para formar parte de la base de datos final.}}$
 
 Notebook Python<br />
 $\text{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el control del stock.}}$<br />
@@ -41,4 +38,4 @@ Para que se generen todas estas interacciones, es necesario crear conexiones, en
 - DataStream.
 - mysql.connector
 
-Dentro del Notebook Python, la única librería que necesita una conexión es mysql.connector, esto se debe a que no realiza transformaciones a las tablas de BigQuery sino que transforma las tablas desde Cloud SQL y de allí se reflejan los cambios hasta BigQuery.
+Dentro del Notebook Python, la única librería que necesita una conexión es *mysql.connector*, esto se debe a que no realiza transformaciones a las tablas de BigQuery sino que transforma las tablas desde Cloud SQL y de allí se reflejan los cambios hasta BigQuery.
