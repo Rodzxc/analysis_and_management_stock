@@ -33,9 +33,9 @@ $\textsf{\color{grey}{Los productos más importantes se controlan 2 veces al mes
 - Análisis de la demanda y los ingresos generados: 
 $\textsf{\color{grey}{Expresado en valores y porcentajes; y segmentados por producto, región y país. }}$
 - Impacto de los productos en el negocio:
-$\textsf{\color{grey}{Calculado a traves de la demanda y los ingresos que genera cada producto.}}$
+$\textsf{\color{grey}{Calculado a través de la demanda y los ingresos que genera cada producto.}}$
 - Impacto de los proveedores en el negocio:
-$\textsf{\color{grey}{Calculado a traves de la demanda y los ingresos que genera cada producto y la trazabilidad a cada proveedor.}}$
+$\textsf{\color{grey}{Calculado a través de la demanda y los ingresos que genera cada producto y la trazabilidad a cada proveedor.}}$
 - Predicción de la demanda:
 $\textsf{\color{grey}{Estimación de la demanda de cada producto en los próximos 3 meses.}}$
 
