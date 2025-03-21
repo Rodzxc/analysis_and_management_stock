@@ -39,4 +39,4 @@ Para que se generen todas estas interacciones, es necesario crear conexiones, en
 - DataStream.
 - mysql.connector
 
-Dentro del Notebook Python, la única librería que necesita una conexión es *mysql.connector*, esto se debe a que no realiza transformaciones a las tablas de BigQuery sino que transforma las tablas desde Cloud SQL y de allí se reflejan los cambios hasta BigQuery.
+Dentro del Notebook Python, la única librería que necesita una conexión es *mysql.connector*, esto se debe a que *no* realiza transformaciones a las tablas de BigQuery sino que transforma las tablas desde Cloud SQL y de allí se reflejan los cambios hasta BigQuery.
