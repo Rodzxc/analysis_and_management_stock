@@ -4,7 +4,7 @@ En este apartado se presentan alguna de las visualizaciones en Power BI y se exp
 
 ## Visualizaciones
 ### Análisis de Productos segmentados por región y país
-![image](https://github.com/user-attachments/assets/c15774b4-df8d-46bf-8172-04cda311e926)
+<img src="https://github.com/user-attachments/assets/c15774b4-df8d-46bf-8172-04cda311e926" alt="Diagrama" width="700"/>
 
 
 ### Impacto y clasificación de los proveedores – Ingresos generados y Ventas:
