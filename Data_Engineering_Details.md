@@ -26,12 +26,14 @@ $\text{\color{grey}{A diferencia del resto, las consultas parten del entorno loc
 Notebook Python<br />
 $\text{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el}}$<br /> 
 $\text{\color{grey}{control del stock.}}$<br />
-$\text{\color{grey}{El resultado final es el archivo}}$ <code style="color : red">Control_de_Stock.ipynb</code>.
+$\text{\color{grey}{El resultado final es el archivo *Control_de_Stock.ipynb*}}$.
 
 
 ## Diagrama
 
 <img src="https://github.com/user-attachments/assets/e1c3bd4f-ccac-437b-818a-0a0865525612" alt="Diagrama" width="700"/>
+
+El trabajo realizado con <code style="color : red">%%bigquery</code>, <code style="color : red">google.cloud.bigquery</code>, <code style="color : red">mysql.connector</code> y <code style="color : red">bigframes.pandas</code> puede verse en el archivo *Control_de_Stock.ipynb*.
 
 ## Conexiones
 Para que se generen todas estas interacciones, es necesario crear conexiones, en este caso, Cloud SQL tiene varias conexiones para transformar AdventureWorks en la base de datos final:
@@ -40,4 +42,4 @@ Para que se generen todas estas interacciones, es necesario crear conexiones, en
 - DataStream.
 - mysql.connector
 
-Dentro del Notebook Python, la única librería que necesita una conexión es *mysql.connector*, esto se debe a que *no* realiza transformaciones a las tablas de BigQuery sino que transforma las tablas desde Cloud SQL y de allí se reflejan los cambios hasta BigQuery.
+Dentro del Notebook Python, la única librería que necesita una conexión es <code style="color : red">mysql.connector</code>, esto se debe a que *no* realiza transformaciones a las tablas de BigQuery sino que transforma las tablas desde Cloud SQL y de allí se reflejan los cambios hasta BigQuery.
