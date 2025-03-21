@@ -23,7 +23,7 @@ $\text{\color{grey}{a diferencia del resto, no esta en la nube (GCP). Las consul
 
 <img src="https://github.com/user-attachments/assets/6d8691b0-f5a4-4455-9dfb-23d1318627bd" alt="Local->nube" width="600"/>
 
-
+<br />
 Notebook Python<br />
 $\text{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el control del stock.}}$<br />
 $\text{\color{grey}{El resultado final es el archivo}}$ <code style="color : red">Control_de_Stock.ipynb</code>.
