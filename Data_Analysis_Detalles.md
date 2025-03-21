@@ -6,7 +6,7 @@ También se expone el código Python incorporado en Power BI por 2 motivos:
 - Se ingestaron datos y una gráfica utilizando Python; y se quiere mostrar este proceso.
 - Las gráficas creadas con Python no se puede ver a menos que se disponga de una licencia Pro.
 
-Los resultados de este análisis de datos se encuentran en el archivo *Analisis_y_Gestion_del_stock.pbix*, puede descargarlo o puede verlo en la web haciendo click [aqui]([http://localhost/](https://app.powerbi.com/view?r=eyJrIjoiMWNiYjkxOWUtMzhlMS00ZjNkLWFlNjUtM2U2Y2U4YTJkOWY2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+Los resultados de este análisis de datos se encuentran en el archivo *Analisis_y_Gestion_del_stock.pbix*, puede descargarlo o puede verlo en la web haciendo click [aquí](https://app.powerbi.com/view?r=eyJrIjoiMWNiYjkxOWUtMzhlMS00ZjNkLWFlNjUtM2U2Y2U4YTJkOWY2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Visualizaciones
 
