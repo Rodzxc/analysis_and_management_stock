@@ -19,7 +19,7 @@ $\text{\color{grey}{Conecta Cloud SQL con BigQuery. Cualquier tranformación que
 
 MySQL Workbench<br />
 $\text{\color{grey}{Crea tablas en AdventureWorks necesarias para el control de stock y son enviadas a BigQuery para formar parte de la base de datos final.}}$
-$\text{\color{grey}{a diferencia del resto, no esta en la nube (GCP). Las consultas parten del entorno local.}}$
+$\text{\color{grey}{A diferencia del resto, las consultas parten del entorno local.}}$
 
 <img src="https://github.com/user-attachments/assets/6d8691b0-f5a4-4455-9dfb-23d1318627bd" alt="Local->nube" width="600"/><br />
 
