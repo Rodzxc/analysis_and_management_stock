@@ -24,6 +24,6 @@ También se expone el código Python incorporado(embedded) en Power BI por 2 mot
 
 ### Gráfica
 El script de la gráfica se encuentra en el archivo *piechart.py*.<br>
-El resultado es un doble gráfico de dona que se divide en regiones y países:
+El resultado es un doble gráfico de dona que se divide en regiones y países y en el centro un círculo con el valor total:
 ![python_grafica](https://github.com/user-attachments/assets/91dc662a-0157-48f4-92ec-42efa4e97c29)
 
