@@ -21,9 +21,8 @@ MySQL Workbench<br />
 $\text{\color{grey}{Crea tablas en AdventureWorks necesarias para el control de stock y son enviadas a BigQuery para formar parte de la base de datos final.}}$
 $\text{\color{grey}{a diferencia del resto, no esta en la nube (GCP). Las consultas parten del entorno local.}}$
 
-<img src="https://github.com/user-attachments/assets/6d8691b0-f5a4-4455-9dfb-23d1318627bd" alt="Local->nube" width="600"/>
+<img src="https://github.com/user-attachments/assets/6d8691b0-f5a4-4455-9dfb-23d1318627bd" alt="Local->nube" width="600"/><br />
 
-<br />
 Notebook Python<br />
 $\text{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el control del stock.}}$<br />
 $\text{\color{grey}{El resultado final es el archivo}}$ <code style="color : red">Control_de_Stock.ipynb</code>.
