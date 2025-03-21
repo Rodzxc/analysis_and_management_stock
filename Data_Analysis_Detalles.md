@@ -1,10 +1,12 @@
 # Detalles del proceso de Data Anaylisis
 
 En este apartado se presentan algunas de las visualizaciones en Power BI.<br>
-También se expone el código Python incorporado(embedded) en Power BI por 2 motivos:
+También se expone el código Python incorporado en Power BI por 2 motivos:
 
 - Se ingestaron datos y una gráfica utilizando Python; y se quiere mostrar este proceso.
-- Las gráficas creadas con Python no se puede ver a menos que se disponga de una licencia Pro. 
+- Las gráficas creadas con Python no se puede ver a menos que se disponga de una licencia Pro.
+
+El resultado final de este análisis de datos es el archivo *Analisis_y_Gestion_del_stock.pbix*.
 
 ## Visualizaciones
 
