@@ -24,6 +24,5 @@ También se expone el código Python incorporado(embedded) en Power BI por 2 mot
 
 ### Gráfica
 ![python_grafica](https://github.com/user-attachments/assets/91dc662a-0157-48f4-92ec-42efa4e97c29)
-![image](https://github.com/user-attachments/assets/da213a7d-f3c7-42e1-a44d-e71112fa7e57)
-
+<img src="https://github.com/user-attachments/assets/da213a7d-f3c7-42e1-a44d-e71112fa7e57" alt="Diagrama" width="500"/>
 
