@@ -3,8 +3,8 @@
 En este apartado se presentan algunas de las visualizaciones en Power BI.<br>
 También se expone el código Python incorporado(embedded) en Power BI por 2 motivos:
 
-- Se incorporaron datos y una gráfica utilizando Python; y se quiere mostrar este proceso.
-- Debido a que una de las gráficas creadas con Python no se puede ver a menos que se disponga de una licencia Pro. 
+- Se ingestaron datos y una gráfica utilizando Python; y se quiere mostrar este proceso.
+- Las gráficas creadas con Python no se puede ver a menos que se disponga de una licencia Pro. 
 
 ## Visualizaciones
 
@@ -18,7 +18,10 @@ También se expone el código Python incorporado(embedded) en Power BI por 2 mot
 <img src="https://github.com/user-attachments/assets/ecb537a4-8f96-44fd-8829-367f2a5a10b3" alt="Diagrama" width="800"/>
 
 ## Código Python
-### Incorporación de datos
+### Ingesta de datos
 ![image](https://github.com/user-attachments/assets/c9ab2680-e1dc-4047-aba0-1a20e19ba049)
 ![image](https://github.com/user-attachments/assets/991d736e-b354-4eca-9b4a-e2cea09d811f)
+
+### Gráfica
+![python_grafica](https://github.com/user-attachments/assets/91dc662a-0157-48f4-92ec-42efa4e97c29)
 
