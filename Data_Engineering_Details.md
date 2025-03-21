@@ -26,7 +26,7 @@ $\text{\color{grey}{A diferencia del resto, las consultas parten del entorno loc
 Notebook Python<br />
 $\text{\color{grey}{Dentro de BigQuery se puede utilizar el notebook de python, esta herramienta es utilizada para confeccionar un plan efectivo para el}}$<br /> 
 $\text{\color{grey}{control del stock.}}$<br />
-$\text{\color{grey}{El resultado final es el archivo *Control_de_Stock.ipynb*}}$.
+$\text{\color{grey}{El resultado final es el archivo }}$*Control_de_Stock.ipynb*.
 
 
 ## Diagrama
