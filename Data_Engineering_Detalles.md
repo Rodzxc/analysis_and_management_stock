@@ -33,7 +33,7 @@ $\text{\color{grey}{El resultado final es el archivo }}$*Control_de_Stock.ipynb*
 
 <img src="https://github.com/user-attachments/assets/e1c3bd4f-ccac-437b-818a-0a0865525612" alt="Diagrama" width="700"/>
 
-El trabajo realizado con <code style="color : red">%%bigquery</code>, <code style="color : red">google.cloud.bigquery</code>, <code style="color : red">mysql.connector</code> y <code style="color : red">bigframes.pandas</code> puede verse en el archivo *Control_de_Stock.ipynb*.
+El trabajo realizado con <code style="color : red">%%bigquery</code>, <code style="color : red">google.cloud.bigquery</code>, <code style="color : red">mysql.connector</code> y <code style="color : red">bigframes.pandas</code> puede verse en el archivo *[Control_de_Stock.ipynb](https://github.com/Rodzxc/analysis_and_management_stock/blob/main/Control_de_Stock.ipynb)*.
 
 ## Conexiones
 Para que se generen todas estas interacciones, es necesario crear conexiones, en este caso, Cloud SQL tiene varias conexiones para transformar AdventureWorks en la base de datos final:
