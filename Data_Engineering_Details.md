@@ -43,3 +43,6 @@ Para que se generen todas estas interacciones, es necesario crear conexiones, en
 - mysql.connector
 
 Dentro del Notebook Python, la única librería que necesita una conexión es <code style="color : red">mysql.connector</code>, esto se debe a que *no* realiza transformaciones a las tablas de BigQuery sino que transforma las tablas desde Cloud SQL y de allí se reflejan los cambios hasta BigQuery.
+
+![image](https://github.com/user-attachments/assets/42310fc8-7132-4b24-bae7-2cbb6c709233)
+
