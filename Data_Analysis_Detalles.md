@@ -4,6 +4,8 @@ En este apartado se presentan alguna de las visualizaciones en Power BI y se exp
 
 ## Visualizaciones
 ### Análisis de Productos segmentados por región y país
+![image](https://github.com/user-attachments/assets/42a23502-947c-4b7c-a445-89802ae60cab)
+
 <img src="https://github.com/user-attachments/assets/c15774b4-df8d-46bf-8172-04cda311e926" alt="Diagrama" width="700"/>
 
 
