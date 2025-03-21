@@ -9,7 +9,6 @@ En este apartado se presentan alguna de las visualizaciones en Power BI y se exp
 ### Tabla de productos segmentados por mayores ingresos
 <img src="https://github.com/user-attachments/assets/11ebd3e4-fc16-48e7-9c87-df8f3c55a0b6" alt="Diagrama" width="800"/>
 
-### Impacto y clasificación de los proveedores – Ingresos generados y Ventas:
-![image](https://github.com/user-attachments/assets/c3f7b95e-af1c-465f-99c7-954a541ccd54)
-
+### Impacto y clasificación de los proveedores – Ingresos generados y Ventas
+<img src="https://github.com/user-attachments/assets/ecb537a4-8f96-44fd-8829-367f2a5a10b3" alt="Diagrama" width="800"/>
 
