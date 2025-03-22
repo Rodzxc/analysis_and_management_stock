@@ -1,7 +1,6 @@
 # Detalles del proceso de Data Science
 
-En este apartado se explica brevemente el proceso de predicción de la demanda.<br />
-Todo el proceso esta detallado en el archivo [Prediccion_de_ventas.ipynb](https://github.com/Rodzxc/analysis_and_management_stock/blob/main/Prediccion_de_ventas.ipynb).
+En este apartado se explica brevemente el proceso de predicción de la demanda.Todo el proceso esta detallado en el archivo [Prediccion_de_ventas.ipynb](https://github.com/Rodzxc/analysis_and_management_stock/blob/main/Prediccion_de_ventas.ipynb).
 
 A diferencia del resto del proyecto, se utiliza el Dataset [AdventureWorks Sales.xlsx](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx) el cual es un archivo excel con las ventas y también se encuentra en este repositorio.
 
