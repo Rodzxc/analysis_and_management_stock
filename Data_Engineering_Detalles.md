@@ -2,8 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/01bbfc81-3b50-4ae2-b10e-2da6e8369a59" alt="Proceso" width="700"/>
 
-En este apartado se explica las diferentes alternativas utilizadas para realizar el proceso de transformación de la base de datos AdventureWorks. 
-
+En este apartado se explica las diferentes alternativas utilizadas para realizar el proceso de transformación de la base de datos AdventureWorks.<br />
 Si bien todo este proceso se puede realizar siguiendo una sola alternativa, el propósito de tomar varias es para desarrollar el conocimiento en la materia.
 
 ## Stack Tecnológico
