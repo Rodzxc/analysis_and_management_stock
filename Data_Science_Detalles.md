@@ -1,6 +1,7 @@
 # Detalles del proceso de Data Science
 
-En este apartado se explica brevemente el proceso de predicción de la demanda.<br />
+En este apartado se explica brevemente el proceso de predicción de la demanda.
+
 A diferencia del resto del proyecto, se utiliza el Dataset [AdventureWorks Sales.xlsx](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx) el cual es un archivo excel con las ventas y también se encuentra en este repositorio.
 
 Las predicciones se calculan utilizando la librería Prophet de Facebook, y los métodos Top-Down y Bottom-Up.
