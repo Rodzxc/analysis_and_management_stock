@@ -8,7 +8,7 @@ Las predicciones se calculan utilizando la librería Prophet de Facebook, y los 
 
 <img src="https://github.com/user-attachments/assets/4c25d09c-95ef-4b46-b728-62e2b99a21e5" alt="Diagrama" width="700"/>
 
- - Top-Down consiste en predecir las ventas globales y proratear el resultado a los diferentes productos.
+ - Top-Down consiste en predecir las ventas globales y prorratear el resultado a los diferentes productos.
  - Bottom-Up consiste en predecir las ventas de cada producto, la suma de las predicciones es la predicción de ventas totales.
 
 El manejo de errores determinará cual método tiene mejor desempeño.
