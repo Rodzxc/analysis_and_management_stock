@@ -42,6 +42,11 @@ $\textsf{\color{grey}{Estimación de la demanda de cada producto en los próximo
 ## ${\color{orange}Estructura}$
 <img src="https://github.com/user-attachments/assets/fc318e48-41ef-4431-948a-f4e9e82ab80d" alt="Estructura" width="700"/>
 
+Para más detalles ver los archivos:
+  - [Data_Engineering_Detalles.md](https://github.com/Rodzxc/analysis_and_management_stock/blob/main/Data_Engineering_Detalles.md)
+  - [Data_Analysis_Detalles.md](https://github.com/Rodzxc/analysis_and_management_stock/blob/main/Data_Analysis_Detalles.md)
+  - [Data_Science_Detalles.md](https://github.com/Rodzxc/analysis_and_management_stock/blob/main/Data_Science_Detalles.md)
+
 ## ${\color{orange}Repositorio}$
 
 ## ${\color{orange}Conclusión}$
