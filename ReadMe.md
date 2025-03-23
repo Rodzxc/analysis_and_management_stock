@@ -48,6 +48,22 @@ Para más detalles ver los archivos:
   - [Data_Science_Detalles.md](https://github.com/Rodzxc/analysis_and_management_stock/blob/main/Data_Science_Detalles.md)
 
 ## ${\color{orange}Repositorio}$
+AdventureWorks Sales.xlsx<br/>
+$\textsf{\color{grey}{Lista de precios, utilizado en la predicción de la demanda.}}$
+Analisis_y_Gestion_del_stock.pbix<br/>
+$\textsf{\color{grey}{Dashboard confeccionado en el proceso de Data Analysis.}}$
+Control_de_Stock.ipynb<br/>
+$\textsf{\color{grey}{Confección y planificación del control del stock.}}$
+Data_Analysis_Detalles.md<br/>
+$\textsf{\color{grey}{Muestra visualizaciones y código implementado en el dashboard.}}$
+Data_Engineering_Detalles.md<br/>
+$\textsf{\color{grey}{Describe las tareas realizadas y las interacciones dentro del ecosistema de GCP.}}$
+Data_Science_Detalles.md<br/>
+$\textsf{\color{grey}{Describe el desarrollo del algoritmo de predicción.}}$
+Prediccion_de_ventas.ipynb<br/>
+$\textsf{\color{grey}{Confección de las predicciones de ventas mensuales.}}$
+piechart.py<br/>
+$\textsf{\color{grey}{Script en python del gráfico de dona utilizado en el dashboard.}}$
 
 ## ${\color{orange}Conclusión}$
 
