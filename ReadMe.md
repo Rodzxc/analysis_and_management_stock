@@ -6,7 +6,7 @@ En este proyecto *end-to-end* se implementa una solución integral para la gesti
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-AdventureWorks es una base de datos que simula diversos escenarios empresariales, registrando compras, ventas, productos, clientes, empleados, proveedores y otros elementos relacionados a la actividad comercial de una empresa multinacional "ficticia" que fabrica y distribuye bicicletas, piezas y accesorios en mercados de Norteamérica, Europa y Asia.
+AdventureWorks es una base de datos que simula diversos escenarios empresariales, registrando compras, ventas, productos, clientes, empleados, proveedores y otros elementos relacionados a la actividad comercial de una empresa multinacional "ficticia" que fabrica y distribuye bicicletas, piezas y accesorios en mercados de Norteamérica, Europa y el Pacífico.
 
 ## ${\color{orange}Objetivo}$
 
@@ -55,7 +55,7 @@ Analisis_y_Gestion_del_stock.pbix<br/>
 $\textsf{\color{grey}{Dashboard confeccionado en el proceso de Data Analysis.}}$
 
 Control_de_Stock.ipynb<br/>
-$\textsf{\color{grey}{Confección y planificación del control del stock.}}$
+$\textsf{\color{grey}{Planificación y confección del control del stock.}}$
 
 Data_Analysis_Detalles.md<br/>
 $\textsf{\color{grey}{Muestra visualizaciones y código implementado en el dashboard.}}$
@@ -75,4 +75,4 @@ $\textsf{\color{grey}{Script en python del gráfico de dona utilizado en el dash
 ## ${\color{orange}Conclusión}$
 
 Este proyecto puede adaptarse a otras empresas que necesiten gestionar un inventario para impulsar su negocio.
-Es un punto de partida desde el cual se puede seguir ampliando, integrando inteligencia artificial, realizando un sistema de recomendación de productos ó segmentado clientes, entre otras opciones, con el fin de seguir nutriendo la Gestión del Stock.
+Es un punto de partida desde el cual se puede seguir ampliando, integrando inteligencia artificial, realizando un sistema de recomendación de productos ó segmentado clientes, entre otras opciones, con el fín de seguir nutriendo la Gestión del Stock.
