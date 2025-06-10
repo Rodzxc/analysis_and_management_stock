@@ -1,5 +1,6 @@
 # ${\color{orange}Análisis\ y\ Gestión\ de\ Stock}$
 <h1><span style="color: orange;">Análisis y Gestión de Stock</span></h1>
+<code style="cyan" : name_color">text</code>
 >  *"La gestión  del stock tiene como objetivo principal **asegurar la disponibilidad de los productos adecuados en el momento adecuado** para satisfacer la demanda, minimizando costos y optimizando los recursos."*
 
 En este proyecto *end-to-end* se implementa una solución integral para la gestión y análisis de productos utilizando la base de datos de AdventureWorks. Combina herramientas de Google Cloud Platform (GCP), SQL, Power BI y Python para desarrollar un flujo de trabajo robusto de ELT, análisis y pronóstico de demanda.
