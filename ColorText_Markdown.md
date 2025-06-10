@@ -20,3 +20,5 @@ $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverf
 $\textcolor{red}{Los\ productos\ más\ importantes\ se\ controlan\ 2\ veces\ al\ mes\ y\ el\ resto\ 1\ vez.}$
 
 ${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
+
+<code style="color : aqua">text</code>
