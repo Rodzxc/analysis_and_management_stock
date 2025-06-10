@@ -22,3 +22,5 @@ $\textcolor{red}{Los\ productos\ más\ importantes\ se\ controlan\ 2\ veces\ al\
 ${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
 
 <code style="color : aqua">text</code>
+
+$${\color{red}Red}$$
